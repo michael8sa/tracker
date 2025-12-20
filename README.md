@@ -37,7 +37,7 @@ Run this:
 pkg install devel/git
 
 # Download configuration
-git clone https://github.com/lajtomekadimon/freebsd-desktop-config
+git clone https://github.com/michael8sa/config.git
 
 # Move to repo dir
 cd freebsd-desktop-config
