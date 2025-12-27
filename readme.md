@@ -25,7 +25,7 @@ MAIL_*
 Require this package via composer:
 
 ```console
-composer require bastinald/livewire-bootstrap-auth
+composer require mi8bsd/livewire-bootstrap-auth
 ```
 
 ## Usage
